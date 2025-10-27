@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides citations for the readings and films used for each
   session of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -439,7 +437,7 @@ Karl, Terry, and Philippe C. Schmitter. "What Democracy is...and is Not." _Journ
 
 Colburn, Forrest D. "Fragile Democracies" In _Latin America at the End of Politics_. Princeton, NJ: Princeton University Press, 2002, pp. 33-44. ISBN: 9780691091815.
 
-Option (in Spanish): [Constitution of Chile](http://pdba.georgetown.edu/Decen/Chile/constitucion.html).
+Option (in Spanish): {{% resource_link "a7495d7e-fc83-4add-8e5a-dc7acb42b30c" "Constitution of Chile" %}}.
 
 _Film_
 
@@ -497,7 +495,7 @@ Mendez, Juan E. "Accountability for past abuses." _Human Rights Quarterly_ 19, n
 
 _Film_
 
-Babenco, Hector. [_Kiss of the Spider Woman_](http://www.imdb.com/title/tt0089424/). 1985 (Hollywood version of Manuel Puig's classic novel).
+Babenco, Hector. {{% resource_link "0ecbfc7a-dbb4-49af-8e3b-29fc8ed59b2c" "_Kiss of the Spider Woman_" %}}. 1985 (Hollywood version of Manuel Puig's classic novel).
 
 
 {{< tdclose >}}
@@ -593,27 +591,27 @@ Colburn, Forrest D. "Crime." In _Latin America at the End of Politics_. Princeto
 
 Magaloni, Beatriz, and Guillermo Zepeda. "Democratization, Judicial and Law Enforcement Institutions, and the Rule of Law in Mexico." In _Dilemmas of Political Change in Mexico_. Edited by Kevin J. Middlebrook. La Jolla, CA: Institute of Latin American Studies and Center for U.S.-Mexican Studies of the University of California at San Diego, 2004, pp. 166-95. ISBN: 9781900039451.
 
-Reames, Benjamin. "[Police Forces In Mexico: A Profile](http://repositories.cdlib.org/usmex/prajm/reames/)." 2003.
+Reames, Benjamin. "{{% resource_link "c02915c2-4d34-45b9-aee7-2a4230f10c62" "Police Forces In Mexico: A Profile" %}}." 2003.
 
 Recent articles on police reform in Mexico on-line sources on police reform in Mexico See, among other sources:
 
-[Public Insecurity in Mexico:Statistics and Análisis](http://www.seguridadpublicaenmexico.org.mx/).
+{{% resource_link "05071936-f6fd-47e9-9771-883fdc87f876" "Public Insecurity in Mexico:Statistics and Análisis" %}}.
 
-[Human Rights First Letter Regarding Giuliani Plan for Mexico City](http://web.archive.org/web/20100827150421/http://www.humanrightsfirst.org/mexico_policing/mex_policing.htm).
+{{% resource_link "d294b8e2-611c-4255-a1c8-3b2d1c95dd4b" "Human Rights First Letter Regarding Giuliani Plan for Mexico City" %}}.
 
-[Center for U.S. - Mexican Studies](http://www.utdallas.edu/research/cusms/).
+{{% resource_link "a26a0d42-d5c3-45bf-b114-9f53c0e8d8b3" "Center for U.S. - Mexican Studies" %}}.
 
-"Democratizing the Police Abroad: What to Do and How to Do It." Chapter 3. ([PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
+"Democratizing the Police Abroad: What to Do and How to Do It." Chapter 3. ({{% resource_link "2259d3dd-8d99-404d-aa82-aa97ac2be3e5" "PDF" %}})
 
-[Exploring Roads to Police Reform: Six Recommendations](http://repositories.cdlib.org/usmex/prajm/varenik/).
+{{% resource_link "c78ce2bd-6b00-4593-b685-781ce951c0f9" "Exploring Roads to Police Reform: Six Recommendations" %}}.
 
-[Evaluando la "Estrategía Giuliani": la Política de Cero Tolerancia en el Distrito Federal](http://repositories.cdlib.org/usmex/prajm/arroyo/).
+{{% resource_link "bf7f4702-7a1f-4bf2-916d-a674cbecfdd9" "Evaluando la \"Estrategía Giuliani\": la Política de Cero Tolerancia en el Distrito Federal" %}}.
 
-[La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California](http://repositories.cdlib.org/usmex/prajm/carrillo/).
+{{% resource_link "5f5541d9-e3a4-44fd-ac10-126839b457b8" "La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California" %}}.
 
 _Film_
 
-Soderbergh, Steven. [_Traffic_](http://www.imdb.com/title/tt0181865/). U.S.A. Films, 2000.
+Soderbergh, Steven. {{% resource_link "0ff1775f-6d38-49f4-92df-7db56474266e" "_Traffic_" %}}. U.S.A. Films, 2000.
 
 
 {{< tdclose >}}
@@ -665,7 +663,7 @@ Holston, James, and Teresa P. R. Caldeira. "Democracy, Law, and Violence: The Di
 
 _Film_
 
-Salles, Walter. [_Central Station_](http://www.imdb.com/title/tt0140888/). 1998.
+Salles, Walter. {{% resource_link "2a41b9b7-bccf-44c4-a4cb-9fd328272f56" "_Central Station_" %}}. 1998.
 
 
 {{< tdclose >}}
